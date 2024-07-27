@@ -1,0 +1,104 @@
+a{
+    text-decoration: none;
+    color: #000000;
+  }
+  
+  .navbar{
+    display: flex;
+    justify-content: flex;
+    align-items: center;
+    height: 60px;
+  }
+  
+  .nav-links{
+    display: flex;
+    
+    justify-content: center;
+    
+  
+    width: 33.3%;
+  }
+  
+  .nav-link{
+    
+    font-weight: 400;
+    color:#505F98;
+    margin-left: 81px;
+  }
+  
+  .logo{
+   
+    width: 33.3%;
+    text-align: center;
+  }
+  .landing{
+    color: #37447E;
+    font-weight: bold;
+    
+  }
+  
+  .navbar-button{
+    
+    width: 33.3%;
+    text-align: center;
+  }
+  .buy-button{
+    border-radius: 3px;
+    font-weight: bold;
+    width: 160px;
+    height:26px;
+    color: #ffffff;
+   background-color:#111B47;
+   cursor: pointer;
+  }
+  
+  .hero{
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 200px;
+  }
+  
+  .hero-content{
+    
+    padding-top:58px;
+    padding-right: 91px;
+    margin-left: 163.12px;
+  }
+  
+  .intro{
+    font-size: 50px;
+    font-weight: 500px;
+    color:#091133;
+   
+  }
+  
+  .intro-content{
+    font-weight: 400;
+    color: #505F98;
+    font-size: 18px;
+    width: 550px;
+    margin-bottom: 70px;
+  }
+  
+  .purchase-button{
+    border-radius: 3px;
+    font-weight: bold;
+    width: 189px;
+    height:36px;
+    color: #ffffff;
+   background-color:#111B47;
+   cursor: pointer;
+   margin-right: 20px;
+  }
+  
+  .learnmore-button{
+    border-radius: 3px;
+    font-weight: bold;
+    width: 189px;
+    height:36px;
+    color: #111B47;
+   background-color:#ffffff;
+   cursor: pointer;
+   margin-right: 20px;
+  }
+  
